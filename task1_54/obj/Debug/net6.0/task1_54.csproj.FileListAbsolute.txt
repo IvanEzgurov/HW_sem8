@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\bin\Debug\net6.0\task1_54.exe
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\bin\Debug\net6.0\task1_54.deps.json
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\bin\Debug\net6.0\task1_54.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\bin\Debug\net6.0\task1_54.dll
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\bin\Debug\net6.0\task1_54.pdb
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\task1_54.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\task1_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\task1_54.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\task1_54.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\task1_54.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\task1_54.dll
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\refint\task1_54.dll
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\task1_54.pdb
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\task1_54.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\seminarC#\HW_sem8\task1_54\obj\Debug\net6.0\ref\task1_54.dll
